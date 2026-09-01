@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: '/',
     images: [
       {
-        url: '/og.png',
+        url: 'https://nitya-roshini-kandula.ricky-8289.chatgpt.site/og.png',
         width: 1729,
         height: 910,
         alt: 'Nitya Roshini Kandula — Java Full Stack Developer',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Nitya Roshini Kandula | Java Full Stack Developer',
     description: 'Building dependable software from API to interface.',
-    images: ['/og.png'],
+    images: ['https://nitya-roshini-kandula.ricky-8289.chatgpt.site/og.png'],
   },
 };
 
