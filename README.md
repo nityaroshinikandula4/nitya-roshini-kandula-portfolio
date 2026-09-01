@@ -6,7 +6,7 @@ A polished, responsive portfolio for **Nitya Roshini Kandula**, a Java Full Stac
 
 **[Open the recruiter portfolio](https://nitya-roshini-kandula.ricky-8289.chatgpt.site)**
 
-![Portfolio preview](public/og.png)
+![Portfolio preview](public/projects/claims.png)
 
 ## What recruiters can explore
 
